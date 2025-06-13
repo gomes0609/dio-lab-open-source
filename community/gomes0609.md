@@ -17,25 +17,6 @@ Contribuir de forma significativa para um projeto Open Source por meio de:
 - 🐞 Correção de bugs
 - 🧪 Criação ou aprimoramento de testes
 
----
-
-## 💡 Minha Contribuição
-
-Projeto escolhido: **[]**  
-Link para o repositório: [https://github.com/usuario/projeto](https://github.com/usuario/projeto)
-
-### 🛠 Tipo de contribuição realizada:
-
-- [ ] Melhorias na documentação
-- [ ] Adição de funcionalidades
-- [ ] Correção de bugs
-- [ ] Testes (novos ou aprimorados)
-
-> Descreva aqui de forma breve e objetiva o que você fez. Exemplo:  
-> "Corrigi erros gramaticais na documentação e adicionei uma seção de 'Como Contribuir' no README."
-
----
-
 ## 🚀 Como contribuir também
 
 Caso você queira contribuir com o mesmo projeto, siga os passos:
